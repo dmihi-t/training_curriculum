@@ -44,5 +44,3 @@ class CalendarsController < ApplicationController
     end
   end
 end
-
-申し訳ありません、マスターブランチで修正してしまいました。
